@@ -1,4 +1,4 @@
-![Header](./Assets/Images/Header.png)
+![Header](./Assets/header.png)
 
 # About Me
 * I love developing with my music at volume 100, Air Pods in and chilling in my own world
